@@ -1,0 +1,116 @@
+baseURL: "https://oliverfletcher.io"
+title: Oliver Fletcher
+paginate: 5
+theme: OliverFletcher
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+pygmentsUseClasses: true
+
+googleAnalytics: UA-123-45
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+params:
+    env: production
+    title: Oliver Fletcher
+    description: "Personal site for Oliver Fletcher"
+    keywords: [Oliver Fletcher, Personal, Cloud]
+    author: "Oliver Fletcher"
+    images: ["<link or path of image for opengraph, twitter-cards>"]
+    DateFormat: "January 2, 2006"
+    defaultTheme: auto
+    disableThemeToggle: false
+
+    ShowReadingTime: true
+    ShowShareButtons: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: false
+    disableSpecial1stPost: false
+    disableScrollToTop: false
+    comments: false
+    hidemeta: false
+    hideSummary: false
+    showtoc: false
+    tocopen: false
+
+    assets:
+        # disableFingerprinting: true
+        favicon: "resources/images/favicon.ico"
+        favicon16x16: "resources/images/favicon-16x16.png"
+        favicon32x32: "resources/images/favicon-32x32.png"
+        apple_touch_icon: "resources/images/apple-touch-icon.png"
+
+    label:
+        text: "Home"
+        icon: /apple-touch-icon.png
+        iconHeight: 35
+
+    homeInfoParams:
+        Title: G'day, I'm Oli 🌊 ![](004A1628.jpg)
+        Content: "I currently work as a Engineering Manager at [Rackspace Technology](https://www.rackspace.com/en-gb), where I'm helping to build out the [Elastic Engineering](https://www.rackspace.com/en-gb/solutions/elastic-engineering) capability across APJ. During my time with Rackspace I have worn many hats, from pre-sales, strategy, leadership, architecture, and engineering. \n
+          \n
+          Before Rackspace, I was a Cloud Advisory Consultant at [Accenture](https://www.accenture.com/) in London. There I helped enable clients on their journey to the Cloud. Prior to that I designed, built and ran globally distributed systems at [EY](https://www.ey.com/). \n
+          \n
+          I've been designing, developing, and building distributed systems since 2008 in both hands-on, strategic and leadership roles. \n
+          \n
+          I am a forward thinker who looks outwards for new ideas, transparent, and a results-driven technology leader. I understand the importance of organisational culture, teams, and growing relationships. \n
+          \n
+          I live with my family in Sydney, Australia. I enjoy surfing 🏄‍♂️ music 🎶 reading 📚 and travel 🚀"
+    socialIcons:
+        - name: email
+          url: "mailto:helloworld@oliverfletcher.io"
+        - name: github
+          url: "https://github.com/oliverjfletcher"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/oliverjamesfletcher"
+        - name: medium
+          url: "https://oliverfletcher.medium.com"
+        - name: twitter
+          url: "https://twitter.com/oliverjames"
+
+
+
+    analytics:
+        google:
+            SiteVerificationTag: "XYZabc"
+
+    cover:
+        hidden: true # hide everywhere but not in structured data
+        hiddenInList: true # hide on list pages and home
+        hiddenInSingle: true # hide on single page
+
+    editPost:
+        URL: "https://github.com/oliverjfletcher/oliverfletcher.io/src/content"
+        Text: "Suggest Changes" # edit text
+        appendFilePath: true # to append file path to Edit link
+
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+menu:
+    main:
+      - identifier: writing-talks
+        name: "Writing & Talks"
+        url: "/writing-talks"
+        weight: 10
+      - identifier: leadership-resources
+        name: "Leadership Resources"
+        url: "/leadership-resources"
+        weight: 20
+      - identifier: "technical-resources"
+        name: "Technical Resources"
+        url: "/technical-resources"
+        weight: 30
+
+
