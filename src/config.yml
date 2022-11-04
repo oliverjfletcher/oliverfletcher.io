@@ -1,7 +1,7 @@
 baseURL: "https://oliverfletcher.io"
 title: Oliver Fletcher
 paginate: 5
-theme: PaperModO
+theme: OliverFletcher
 
 enableRobotsTXT: true
 buildDrafts: false
