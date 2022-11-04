@@ -40,10 +40,10 @@ params:
 
     assets:
         # disableFingerprinting: true
-        favicon: "resources/images/favicon.ico"
-        favicon16x16: "resources/images/favicon-16x16.png"
-        favicon32x32: "resources/images/favicon-32x32.png"
-        apple_touch_icon: "resources/images/apple-touch-icon.png"
+        favicon: "/favicon.ico"
+        favicon16x16: "/favicon-16x16.png"
+        favicon32x32: "/favicon-32x32.png"
+        apple_touch_icon: "/apple-touch-icon.png"
 
     label:
         text: "Home"
@@ -51,7 +51,7 @@ params:
         iconHeight: 35
 
     homeInfoParams:
-        Title: G'day, I'm Oli 🌊 ![](004A1628.jpg)
+        Title: G'day, I'm Oli 🌊
         Content: "I currently work as a Engineering Manager at [Rackspace Technology](https://www.rackspace.com/en-gb), where I'm helping to build out the [Elastic Engineering](https://www.rackspace.com/en-gb/solutions/elastic-engineering) capability across APJ. During my time with Rackspace I have worn many hats, from pre-sales, strategy, leadership, architecture, and engineering. \n
           \n
           Before Rackspace, I was a Cloud Advisory Consultant at [Accenture](https://www.accenture.com/) in London. There I helped enable clients on their journey to the Cloud. Prior to that I designed, built and ran globally distributed systems at [EY](https://www.ey.com/). \n
