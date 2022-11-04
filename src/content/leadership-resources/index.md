@@ -1,10 +1,6 @@
 # Leadership Resources
 
 The resources below have been guides while developing my leadership style. These have helped me to have a diverse perspective, make better decisions, and grow high performing teams.
-  
-Leadership Resources
-
-The resources below have been guides while developing my leadership style. These have helped me to have a diverse perspective, make better decisions, and grow high performing teams.
 
 - [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.com.au/Team-Topologies-Organizing-Business-Technology/dp/1942788819/ref=pd_sim_4?pd_rd_w=rsRKh&pf_rd_p=4ff28cd9-0fbd-41fc-9601-daff9e379a15&pf_rd_r=KMJ7S14NVH25H60JN4VB&pd_rd_r=453a5889-5e99-42bd-83d4-5a1892850f9e&pd_rd_wg=JFSns&pd_rd_i=1942788819&psc=1)
 - [Measure What Matters: OKRs: The Simple Idea that Drives 10x Growth](https://www.amazon.com.au/Measure-What-Matters-Simple-Drives/dp/024134848X/ref=pd_sim_39?pd_rd_w=rsRKh&pf_rd_p=4ff28cd9-0fbd-41fc-9601-daff9e379a15&pf_rd_r=KMJ7S14NVH25H60JN4VB&pd_rd_r=453a5889-5e99-42bd-83d4-5a1892850f9e&pd_rd_wg=JFSns&pd_rd_i=024134848X&psc=1)
