@@ -5,6 +5,9 @@
 - [Platform as a Product - CNCF Kubernetes Community Day](https://community.cncf.io/events/details/cncf-kcd-australia-presents-kubernetes-community-day-australia-2023/)
 - [Empowering Transformation with Cloud Efficiency and DevOps Optimization - AWS & Rackspace](https://www.commonsense.events/nl23-rackspace-cloud-optimisation-2/)
 
+## Presentations
+- [Platform as a Product - CNCF Kubernetes Community Day](https://docs.google.com/presentation/d/1-Lu5a7_RDz0zwCjnXjJUqQ-bv_nTH8wT/edit#slide=id.p1)
+
 ## Blog Posts
 
 - [How Onica’s Elastic Engineering Team Automated Disaster Recovery for Amazon RDS Instances](https://aws.amazon.com/blogs/apn/how-onicas-elastic-engineering-team-automated-disaster-recovery-for-amazon-rds-instances/)
