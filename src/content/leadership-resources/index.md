@@ -10,6 +10,7 @@ The resources below have been guides while developing my leadership style. These
 - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com.au/Managers-Path-Leaders-Navigating-Growth-ebook/dp/B06XP3GJ7F/ref=sr_1_1?dchild=1&keywords=the+managers+path&qid=1618472024&s=digital-text&sr=1-1)
 - [Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework](https://www.amazon.com.au/Project-Product-Survive-Disruption-Framework/dp/1942788398)
 - [Talking with Tech Leads: From Novices to Practitioners](https://www.amazon.com.au/Talking-Tech-Leads-Novices-Practitioners-ebook/dp/B014Q2C4M4)
+- [Wiring the Winning Organization](https://www.amazon.com.au/Wiring-Winning-Organization-Simplification-Slowificatio/dp/1950508420/)
 - [Teaming: How Organizations Learn, Innovate, and Compete in the Knowledge Economy](https://www.amazon.com.au/Teaming-Organizations-Innovate-Compete-Knowledge-ebook/dp/B007MF3BRA)
 - [Innovating for People Handbook of Human-Centered Design Methods](https://www.amazon.com.au/Innovating-People-Handbook-Human-Centered-Methods/dp/0985750901)
 - [Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity](https://www.amazon.com.au/Radical-Candor-Kick-Ass-Without-Humanity/dp/1250258405/)
